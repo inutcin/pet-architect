@@ -1,5 +1,7 @@
 {Заголовок решаемой проблемы/задачи}
 =========
+|          |                                                                   |
+|----------|-------------------------------------------------------------------|
 |Status:   | {proposed/rejected/accepted/deprecated/superseded by [ADR-0005]}  |
 |Deciders: | dev, devops                                                       |
 |Date:     | 19.04.2023                                                        |
